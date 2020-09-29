@@ -1,0 +1,12 @@
+C:\Users\shiga\source\repos\MicroRabbit\bin\Debug\netcoreapp3.1\MicroRabbit.exe
+C:\Users\shiga\source\repos\MicroRabbit\bin\Debug\netcoreapp3.1\MicroRabbit.deps.json
+C:\Users\shiga\source\repos\MicroRabbit\bin\Debug\netcoreapp3.1\MicroRabbit.runtimeconfig.json
+C:\Users\shiga\source\repos\MicroRabbit\bin\Debug\netcoreapp3.1\MicroRabbit.runtimeconfig.dev.json
+C:\Users\shiga\source\repos\MicroRabbit\bin\Debug\netcoreapp3.1\MicroRabbit.dll
+C:\Users\shiga\source\repos\MicroRabbit\bin\Debug\netcoreapp3.1\MicroRabbit.pdb
+C:\Users\shiga\source\repos\MicroRabbit\obj\Debug\netcoreapp3.1\MicroRabbit.AssemblyInfoInputs.cache
+C:\Users\shiga\source\repos\MicroRabbit\obj\Debug\netcoreapp3.1\MicroRabbit.AssemblyInfo.cs
+C:\Users\shiga\source\repos\MicroRabbit\obj\Debug\netcoreapp3.1\MicroRabbit.csproj.CoreCompileInputs.cache
+C:\Users\shiga\source\repos\MicroRabbit\obj\Debug\netcoreapp3.1\MicroRabbit.dll
+C:\Users\shiga\source\repos\MicroRabbit\obj\Debug\netcoreapp3.1\MicroRabbit.pdb
+C:\Users\shiga\source\repos\MicroRabbit\obj\Debug\netcoreapp3.1\MicroRabbit.genruntimeconfig.cache
